@@ -10,11 +10,11 @@
   <!-- Repository Cards -->
   <div>
     <a href="https://github.com/nlp-tlp/15926-4-RDL-CITS3200">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=nlp-tlp&repo=15926-4-RDL-CITS3200&show_owner=true&theme=aura_dark&description_lines_count=1&card_width=250" height="120" alt="RDL repo" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=nlp-tlp&repo=15926-4-RDL-CITS3200&show_owner=true&theme=tokyonight&description_lines_count=1&card_width=250" height="120" alt="RDL repo" />
     </a>
     &nbsp;&nbsp;
     <a href="https://github.com/paulmmaingi/duplicates">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=paulmmaingi&repo=duplicates&show_owner=true&theme=aura_dark&description_lines_count=1&card_width=250" height="120" alt="duplicates repo" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=paulmmaingi&repo=duplicates&show_owner=true&theme=tokyonight&description_lines_count=1&card_width=250" height="120" alt="duplicates repo" />
     </a>
   </div>
   
